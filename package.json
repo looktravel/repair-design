@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/looktravel/repair-design#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1"
   },
   "dependencies": {
     "-": "0.0.1",
